@@ -1,1 +1,2 @@
 com.sn.microsoft.excel.spoke
+com.sn.qualtrics.spoke
